@@ -1,1 +1,0 @@
-# hubspot-automation-frontend
